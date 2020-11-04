@@ -1,0 +1,11 @@
+{
+  "name": "submission-2",
+  "version": "1.0.0",
+  "description": "football app (submission 2 dicoding)",
+  "main": "register-sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ucu Jumiantp",
+  "license": "ISC"
+}
